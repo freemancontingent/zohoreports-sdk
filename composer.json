@@ -1,0 +1,20 @@
+{
+    "name": "freemancontingent/zohoreports-sdk",
+    "description": "ZohoReports PHP SDK",
+    "license": "MIT",
+    "keywords": ["zoho", "zohoreports"],
+    "authors": [
+        {
+            "name": "Giuseppe Occhipinti",
+            "email": "giuseppe@freemancontingent.ie"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "ZohoReports\\ZohoReports": "src/"
+        }
+    }
+}

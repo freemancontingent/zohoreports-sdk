@@ -1,3 +1,7 @@
+# UPDATE
+
+This repo is for an outdated version of Zoho API.
+
 # Zoho Reports PHP SDK
 
 This is a PHP SDK that provides integration with [Zoho Reports](https://www.zoho.com/reports/) through their API.
